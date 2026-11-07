@@ -1,7 +1,7 @@
 # Aréte
 
 <p align="center">
-  <img src="docs/assets/icono.png" width="120" alt="Aréte logo"/>
+  <img src="icono.png" width="120" alt="Aréte logo"/>
 </p>
 
 <p align="center">
